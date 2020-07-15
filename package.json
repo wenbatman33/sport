@@ -1,0 +1,10 @@
+{
+  "name": "tf179",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.27.0",
+    "toml": "^3.0.0"
+  }
+}

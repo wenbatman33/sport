@@ -4,7 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
     "moment": "^2.27.0",
+    "puppeteer": "^5.2.0",
+    "request": "^2.88.2",
     "toml": "^3.0.0"
   }
 }
